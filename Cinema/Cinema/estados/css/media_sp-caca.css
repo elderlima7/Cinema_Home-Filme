@@ -1,0 +1,519 @@
+@media screen and (max-width: 1240px){
+    .sinopse{
+        width: 700px;
+        
+        
+    }
+
+    #parag{
+        font-size: 20px;
+        width: 900px;
+        
+    }
+
+    #linha{
+        margin-bottom: 50px;
+        margin-top: 300px;
+    }
+}
+
+@media screen and (max-width: 1120px){
+    #linha{
+        width: 700px;
+    }
+}
+
+@media screen and (max-width: 1060px){
+    .inf1{
+        margin-left: -180px;
+    }
+
+    .inf2{
+        margin-left: -180px;
+    }
+
+    .inf3{
+        margin-left: -180px;
+    }
+
+    .inf4{
+        margin-left: -180px;
+    }
+    .inf5{
+        margin-left: -180px;
+    }
+    .inf6{
+        margin-left: -180px;
+    }
+}
+
+@media screen and (max-width: 1010px){
+    #parag{
+        font-size: 18px;
+        width: 600px;
+        
+    }
+    
+    #linha{
+        margin-top: 350px;
+    }
+}
+
+@media screen and (max-width: 888px){
+    .infos_santo{
+        margin-left: 20px;
+    }
+
+    #data1{
+        font-size: 20px;
+    }
+    #data2{
+        font-size: 20px;
+    }
+    #data3{
+        font-size: 20px;
+    }
+
+    .infos_ipiranga{
+        margin-left: 20px;
+        
+    }
+
+    #dub{
+        display: none;
+    }
+    #dub2{
+        display: none;
+    }
+    #dub3{
+        display: none;
+    }
+
+    #ingresso-t1{
+        margin-left: 720px;
+    }
+    #ingresso-t2{
+        margin-left: 720px;
+    }
+    #ingresso-t3{
+        margin-left: 720px;
+    }
+
+    #ingresso1{
+        margin-left: 710px;
+    }
+    #ingresso2{
+        margin-left: 710px;
+    }
+    #ingresso3{
+        margin-left: 710px;
+    }
+    
+}
+
+@media screen and (max-width: 890px){
+    .infos_santo{
+        width: 200px;
+        font-size: 30px;
+    }
+}
+
+@media screen and (max-width: 710px){
+    #sala1{
+        font-size: 15px;
+    }
+
+    #sala2{
+        font-size: 15px;
+    }
+
+    #sala3{
+        font-size: 15px;
+    }
+
+    #barra_sala1{
+        margin-left: 55px;
+    }
+    #barra_sala2{
+        margin-left: 55px;
+    }
+    #barra_sala3{
+        margin-left: 55px;
+    }
+
+    #ret1{
+        margin-left: 65px;
+    }
+    #ret2{
+        margin-left: 170px;
+    }
+    #ret3{
+        margin-left: 280px;
+    }
+    #ret4{
+        margin-left: 65px;
+    }
+    #ret5{
+        margin-left: 170px;
+    }
+    #ret6{
+        margin-left: 280px;
+    }
+    #ret7{
+        margin-left: 65px;
+    }
+    #ret8{
+        margin-left: 170px;
+    }
+    #ret9{
+        margin-left: 280px;
+    }
+
+    #hora1{
+        margin-left: 80px;
+    }
+    #hora2{
+        margin-left: 180px;
+    }
+    #hora3{
+        margin-left: 290px;
+    }
+    #hora4{
+        margin-left: 80px;
+    }
+    #hora5{
+        margin-left: 180px;
+    }
+    #hora6{
+        margin-left: 290px;
+    }
+    #hora7{
+        margin-left: 80px;
+    }
+    #hora8{
+        margin-left: 180px;
+    }
+    #hora9{
+        margin-left: 290px;
+    }
+
+    #data1{
+        margin-left: 90px;
+    }
+    #data2{
+        margin-left: 190px;
+    }
+    #data3{
+        margin-left: 290px;
+    }
+
+    #barra_sala4{
+        margin-left: 570px;
+    }
+    #barra_sala5{
+        margin-left: 570px;
+    }
+    #barra_sala6{
+        margin-left: 570px;
+    }
+
+    #ingresso-t1{
+        margin-left: 590px;
+    }
+    #ingresso-t2{
+        margin-left: 590px;
+    }
+    #ingresso-t3{
+        margin-left: 590px;
+    }
+
+    #ingresso1{
+        margin-left: 575px;
+    }
+    #ingresso2{
+        margin-left: 575px;
+    }
+    #ingresso3{
+        margin-left: 575px;
+    }
+    
+    #linha{
+        width: 500px;
+        margin-left: 80px;
+    }
+
+}
+
+
+@media screen and (max-width: 720px){
+    #parag{
+        width: 400px;
+    }
+
+    #linha{
+        margin-top: 500px;
+        width: 400px;
+    }
+}
+
+@media screen and (max-width: 630px){
+    #idade_14{
+        margin-top: -300px;
+    }
+
+    #min{
+        margin-left: -50px;
+    }
+
+    #min1{
+        margin-left: 320px;
+        
+    }
+
+    #suspense{
+        margin-top: 30px;
+        margin-left: 300px;
+    }
+
+    #suspense1{
+        margin-top: 45px;
+        margin-left: 310px;
+    }
+}
+
+@media screen and (max-width: 570px){
+    #ingresso-t1{
+        display: none;
+    }
+    #ingresso-t2{
+        display: none;
+    }
+    #ingresso-t3{
+        margin-top: 155px;
+        margin-left: 250px;
+    }
+
+    #ingresso1{
+        display: none;
+    }
+    #ingresso2{
+        display: none;
+    }
+    #ingresso3{
+        margin-top: 150px;
+        margin-left: 240px;
+        width: 120px;
+    }
+    
+    #linha{
+        width: 500px;
+        margin-left: 80px;
+    }
+
+    #barra_sala4{
+        display: none;
+    }
+    #barra_sala5{
+        display: none;
+    }
+    #barra_sala6{
+        display: none;
+    }
+
+    .infos_ipiranga{
+        margin-top: 550px;
+    }
+
+    .ipiranga1{
+        margin-top: 380px;
+    }
+
+    .sinopse{
+        margin-left: 20px;
+    }
+
+    #linha{
+        width: 250px;
+    }
+}
+
+@media screen and (max-width: 500px){
+    #nav1{
+        margin-bottom: 50px;
+        margin-left: 20px;
+    }
+
+    #caca_capa{
+        margin-left: 25px;
+    }
+
+    #min1{
+        margin-left: 240px;
+    }
+
+    #suspense{
+        margin-left: 220px;
+    }
+
+    #suspense1{
+        margin-left: 230px;
+    }
+
+    #ret1{
+        height: 50px;
+        width: 80px;
+    }
+    #ret2{
+        height: 50px;
+        width: 80px;
+    }
+    #ret3{
+        height: 50px;
+        width: 80px;
+    }
+    #ret4{
+        height: 50px;
+        width: 80px;
+    }
+    #ret5{
+        height: 50px;
+        width: 80px;
+    }
+    #ret6{
+        height: 50px;
+        width: 80px;
+    }
+    #ret7{
+        height: 50px;
+        width: 80px;
+    }
+    #ret8{
+        height: 50px;
+        width: 80px;
+    }
+    #ret9{
+        height: 50px;
+        width: 80px;
+    }
+
+    .sinopse{
+        width: 100px;
+    }
+
+    #leia{
+        width: 350px;
+    }
+
+}
+
+@media screen and (max-width: 440px){
+    #parag{
+        font-size: 15px;
+        width: 300px;
+    }
+}
+
+@media screen and (max-width: 415px){
+    #ret1{
+        height: 50px;
+        width: 80px;
+        
+    }
+    #ret2{
+        height: 50px;
+        width: 80px;
+        margin-left: 150px;
+    }
+    #ret3{
+        height: 50px;
+        width: 80px;
+        margin-left: 235px;
+    }
+    #ret4{
+        height: 50px;
+        width: 80px;
+        
+    }
+    #ret5{
+        height: 50px;
+        width: 80px;
+        margin-left: 150px;
+    }
+    #ret6{
+        height: 50px;
+        width: 80px;
+        margin-left: 235px;
+    }
+    #ret7{
+        height: 50px;
+        width: 80px;
+    }
+    #ret8{
+        height: 50px;
+        width: 80px;
+        margin-left: 150px;
+    }
+    #ret9{
+        height: 50px;
+        width: 80px;
+        margin-left: 235px;
+    }
+
+    #hora1{
+        margin-left: 70px;
+    }
+    #hora2{
+        margin-left: 160px;
+    }
+    #hora3{
+        margin-left: 245px;
+    }
+    #hora4{
+        margin-left: 70px;
+    }
+    #hora5{
+        margin-left: 160px;
+    }
+    #hora6{
+        margin-left: 245px;
+    }
+    #hora7{
+        margin-left: 70px;
+    }
+    #hora8{
+        margin-left: 160px;
+    }
+    #hora9{
+        margin-left: 245px;
+    }
+
+    #data1{
+        margin-left: 70px;
+    }
+    #data2{
+        margin-left: 160px;
+    }
+    #data3{
+        margin-left: 250px;
+    }
+
+    #linha{
+        width: 200px;
+    }
+
+    #saopaulo{
+        width: 200px;
+        margin-left: -60px;
+    }
+
+    #ipiranga{
+        width: 200px;
+        margin-left: -60px;
+    }
+
+    #santo_amaro{
+        margin-left: -60px;
+    }
+}
+
+

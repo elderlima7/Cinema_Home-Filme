@@ -1,0 +1,652 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
+
+body{
+    background-color: black;
+}
+
+#barra1{
+    background-color: #7a1e1e;
+    width: 100%;
+    height: 40px;
+
+}
+
+#nav1{
+    margin-left: 100px;
+    margin-top: 10px;
+}
+
+#fundo_caca{
+    width: 100%;
+}
+
+#caca_capa{
+    margin-left: 100px;
+    margin-top: -200px;
+}
+
+#idade_14{
+    margin-left: 20px;
+    margin-top: -160px;
+    border-radius: 10px;
+}
+
+#min{
+    box-sizing: border-box;
+    margin-top: -70px;
+    position: absolute;
+    width: 100px;
+    height: 50px;
+    margin-left: 20px;
+    border: 5px solid #F5F5F5;
+    border-radius: 10px;
+}
+
+#min1{
+    width: 100px;
+    height: 40px;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 20px;
+    line-height: 52px;
+    color: #F5F5F5;
+    margin-left: 385px;
+    margin-top: -140px;
+}
+
+#suspense{
+    box-sizing: border-box;
+    margin-top: -53px;
+    position: absolute;
+    width: 120px;
+    height: 50px;
+    margin-left: 490px;
+    border: 5px solid #F5F5F5;
+    border-radius: 10px;
+}
+
+#suspense1{
+    width: 100px;
+    height: 40px;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 20px;
+    line-height: 52px;
+    color: #F5F5F5;
+    margin-left: 500px;
+    margin-top: -55px;
+}
+
+.sinopse{
+    margin-left: 100px;
+    margin-top: 100px;
+}
+
+#leia{
+    position: absolute;
+    width: 490px;
+    height: 85px;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 40px;
+    line-height: 85px;
+    color: #F5F5F5;
+}
+
+#parag{
+    position: absolute;
+    width: 1150px;
+    height: 200px;
+    margin-top: 80px;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 30px;
+
+    color: #F5F5F5;
+}
+
+#linha{
+    
+    width: 967px;
+    height: 3px;
+    margin-top: 250px;
+    background: #D9D9D9;
+    margin-left: 150px;
+}
+
+.lugar_sp{
+    margin-left: 100px;
+    margin-top: 30px;
+
+}
+
+#saopaulo{
+    position: absolute;
+    width: 350px;
+    height: 45px;
+    font-weight: 700;
+    font-size: 35px;
+    line-height: 61px;
+    color: #7A1E1E;
+
+}
+
+#santo_amaro{
+    position: absolute;
+    width: 253px;
+    height: 48px;
+    margin-top: 70px;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 25px;
+    line-height: 48px;
+
+    color: #F5F5F5;
+
+}
+
+.infos_santo{
+    margin-left: 100px;
+    margin-top: 150px;
+    position: absolute;
+}
+
+#data1{
+    position: absolute;
+    width: 86px;
+    height: 36px;
+    margin-left: 150px;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 20px;
+    line-height: 36px;
+    margin-top: -35px;
+    color: #F5F5F5;
+}
+
+#data2{
+    position: absolute;
+    width: 86px;
+    height: 36px;
+    margin-left: 290px;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 20px;
+    line-height: 36px;
+    margin-top: -35px;
+    color: #F5F5F5;
+}
+
+#data3{
+    position: absolute;
+    width: 86px;
+    height: 36px;
+    margin-left: 430px;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 20px;
+    line-height: 36px;
+    margin-top: -35px;
+    color: #F5F5F5;
+}
+
+#sala1{
+    width: 121px;
+    height: 42px;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 20px;
+    line-height: 42px;
+    color: #F5F5F5;
+}
+
+#barra_sala1{
+    position: absolute;
+    width: 1px;
+    height: 50px;
+    margin-left: 100px;
+    border: 1px solid #F5F5F5;
+    margin-top: -50px;
+    
+}
+
+#sala2{
+    width: 121px;
+    height: 42px;
+    margin-top: 20px;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 20px;
+    line-height: 42px;
+    position: absolute;
+    color: #F5F5F5;
+    
+}
+
+#barra_sala2{
+    position: absolute;
+    width: 1px;
+    height: 50px;
+    margin-left: 100px;
+    border: 1px solid #F5F5F5;
+    margin-top: 20px;
+    
+}
+
+#sala3{
+    width: 121px;
+    height: 42px;
+    margin-top: 90px;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 20px;
+    line-height: 42px;
+    position: absolute;
+    color: #F5F5F5;
+    
+}
+
+#barra_sala3{
+    position: absolute;
+    width: 1px;
+    height: 50px;
+    margin-left: 100px;
+    border: 1px solid #F5F5F5;
+    margin-top: 90px;
+}
+
+#ret1{
+    position: absolute;
+    width: 100px;
+    height: 45px;
+    border: 3px solid #F5F5F5;
+    border-radius: 10px;
+    margin-left: 130px;
+    margin-top: -48px;
+}
+
+#ret2{
+    position: absolute;
+    width: 100px;
+    height: 45px;
+    border: 3px solid #F5F5F5;
+    border-radius: 10px;
+    margin-left: 270px;
+    margin-top: -48px;
+}
+
+#ret3{
+    position: absolute;
+    width: 100px;
+    height: 45px;
+    border: 3px solid #F5F5F5;
+    border-radius: 10px;
+    margin-left: 410px;
+    margin-top: -48px;
+}
+
+#hora1{
+    position: absolute;
+    width: 100px;
+    height: 45px;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 25px;
+    line-height: 42px;
+    color: #F5F5F5;
+    margin-left: 145px;
+    margin-top: -46px;
+    
+}
+
+#hora2{
+    position: absolute;
+    width: 100px;
+    height: 45px;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 25px;
+    line-height: 42px;
+    color: #F5F5F5;
+    margin-left: 290px;
+    margin-top: -46px;
+
+}
+
+#hora3{
+    position: absolute;
+    width: 100px;
+    height: 45px;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 25px;
+    line-height: 42px;
+    color: #F5F5F5;
+    margin-left: 425px;
+    margin-top: -46px;
+
+}
+
+#ret4{
+    position: absolute;
+    width: 100px;
+    height: 45px;
+    border: 3px solid #F5F5F5;
+    border-radius: 10px;
+    margin-left: 130px;
+    margin-top: 20px;
+}
+
+#ret5{
+    position: absolute;
+    width: 100px;
+    height: 45px;
+    border: 3px solid #F5F5F5;
+    border-radius: 10px;
+    margin-left: 270px;
+    margin-top: 20px;
+}
+
+#ret6{
+    position: absolute;
+    width: 100px;
+    height: 45px;
+    border: 3px solid #F5F5F5;
+    border-radius: 10px;
+    margin-left: 410px;
+    margin-top: 20px;
+}
+
+#hora4{
+    position: absolute;
+    width: 100px;
+    height: 45px;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 25px;
+    line-height: 42px;
+    color: #F5F5F5;
+    margin-left: 145px;
+    margin-top: 20px;
+}
+
+#hora5{
+    position: absolute;
+    width: 100px;
+    height: 45px;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 25px;
+    line-height: 42px;
+    color: #F5F5F5;
+    margin-left: 290px;
+    margin-top: 20px;
+}
+
+#hora6{
+    position: absolute;
+    width: 100px;
+    height: 45px;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 25px;
+    line-height: 42px;
+    color: #F5F5F5;
+    margin-left: 428px;
+    margin-top: 20px;
+}
+
+#ret7{
+    position: absolute;
+    width: 100px;
+    height: 45px;
+    border: 3px solid #F5F5F5;
+    border-radius: 10px;
+    margin-left: 130px;
+    margin-top: 90px;
+}
+
+#ret8{
+    position: absolute;
+    width: 100px;
+    height: 45px;
+    border: 3px solid #F5F5F5;
+    border-radius: 10px;
+    margin-left: 270px;
+    margin-top: 90px;
+}
+
+#ret9{
+    position: absolute;
+    width: 100px;
+    height: 45px;
+    border: 3px solid #F5F5F5;
+    border-radius: 10px;
+    margin-left: 410px;
+    margin-top: 90px;
+}
+
+#hora7{
+    position: absolute;
+    width: 100px;
+    height: 45px;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 25px;
+    line-height: 42px;
+    color: #F5F5F5;
+    margin-left: 145px;
+    margin-top: 90px;
+}
+
+#hora8{
+    position: absolute;
+    width: 100px;
+    height: 45px;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 25px;
+    line-height: 42px;
+    color: #F5F5F5;
+    margin-left: 290px;
+    margin-top: 90px;
+}
+
+#hora9{
+    position: absolute;
+    width: 100px;
+    height: 45px;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 25px;
+    line-height: 42px;
+    color: #F5F5F5;
+    margin-left: 428px;
+    margin-top: 90px;
+}
+
+#barra_sala4{
+    position: absolute;
+    width: 1px;
+    height: 50px;
+    margin-left: 700px;
+    border: 1px solid #F5F5F5;
+    margin-top: -50px;
+    
+}
+
+#barra_sala5{
+    position: absolute;
+    width: 1px;
+    height: 50px;
+    margin-left: 700px;
+    border: 1px solid #F5F5F5;
+    margin-top: 20px;
+    
+}
+
+#barra_sala6{
+    position: absolute;
+    width: 1px;
+    height: 50px;
+    margin-left: 700px;
+    border: 1px solid #F5F5F5;
+    margin-top: 90px;
+    
+}
+
+#dub{
+    position: absolute;
+    width: 40px;
+    height: 40px;
+    border-radius: 10px;
+    margin-left: 730px;
+    margin-top: -45px;
+}
+
+#dub2{
+    position: absolute;
+    width: 40px;
+    height: 40px;
+    border-radius: 10px;
+    margin-left: 730px;
+    margin-top: 25px;
+}
+
+#dub3{
+    position: absolute;
+    width: 40px;
+    height: 40px;
+    border-radius: 10px;
+    margin-left: 730px;
+    margin-top: 100px;
+}
+
+#ingresso1{
+    position: absolute;
+    width: 130px;
+    height: 45px;
+    border: 3px solid #F5F5F5;
+    border-radius: 10px;
+    margin-left: 800px;
+    margin-top: -48px;
+    border: 5px solid #7A1E1E;
+    border-radius: 10px;
+}
+
+#ingresso2{
+    position: absolute;
+    width: 130px;
+    height: 45px;
+    border: 3px solid #F5F5F5;
+    border-radius: 10px;
+    margin-left: 800px;
+    margin-top: 22px;
+    border: 5px solid #7A1E1E;
+    border-radius: 10px;
+}
+
+#ingresso3{
+    position: absolute;
+    width: 130px;
+    height: 45px;
+    border: 3px solid #F5F5F5;
+    border-radius: 10px;
+    margin-left: 800px;
+    margin-top: 95px;
+    border: 5px solid #7A1E1E;
+    border-radius: 10px;
+}
+
+#ingresso-t1{
+    position: absolute;
+    width: 155px;
+    height: 36px;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 20px;
+    line-height: 36px;
+    color: #F5F5F5;
+    margin-left: 820px;
+    margin-top: -44px;
+}
+
+#ingresso-t2{
+    position: absolute;
+    width: 155px;
+    height: 36px;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 20px;
+    line-height: 36px;
+    color: #F5F5F5;
+    margin-left: 820px;
+    margin-top: 26px;
+}
+
+#ingresso-t3{
+    position: absolute;
+    width: 155px;
+    height: 36px;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 20px;
+    line-height: 36px;
+    color: #F5F5F5;
+    margin-left: 820px;
+    margin-top: 100px;
+}
+
+.ipiranga1{
+    margin-left: 100px;
+    margin-top: 340px;
+}
+
+#ipiranga{
+    position: absolute;
+    width: 300px;
+    height: 48px;
+    margin-top: 70px;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 25px;
+    line-height: 58px;
+
+    color: #F5F5F5;
+}
+
+.infos_ipiranga{
+    margin-left: 100px;
+    margin-top: 500px;
+}
+
+
+#barra_fim{
+    width: 100%;
+    height: 80px;
+    background-color: #7A1E1E;
+    margin-top: 250px;
+    position: absolute;
+}

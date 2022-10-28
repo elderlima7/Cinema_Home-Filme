@@ -1,0 +1,231 @@
+
+@media screen and (max-width: 1240px){
+    .dropdown{
+        margin-left: 800px;
+    }
+
+    #carouselExampleIndicators{
+        margin-top: 60px;
+    }
+}
+
+@media screen and (max-width: 1150px){
+    .dropdown{
+        margin-left: 600px;
+    }
+
+    #carouselExampleIndicators{
+        margin-top: 60px;
+    }
+}
+
+@media screen and (max-width: 1000px){
+    .dropdown{
+        margin-left: 400px;
+    }
+
+    #carouselExampleIndicators{
+        margin-top: 60px;
+    }
+    
+    .footer{
+        height: 230px;
+    }
+    
+    .face{
+        margin-left: 400px;
+        
+        
+    }
+    
+    .insta{
+        margin-left: 600px;
+        
+    }
+}
+
+@media screen and (max-width: 850px){
+
+    .container-fluid{
+        margin-left: -90px;
+    }
+
+    .dropdown{
+        margin-left: 300px;
+        margin-top: -120px;
+    
+    }
+
+    #carouselExampleIndicators{
+        margin-top: 60px;
+    }
+
+    .footer{
+        height: 350px;
+    }
+
+    .face{
+        margin-left: 100px;
+        margin-top: 150px;
+        
+    }
+
+    .insta{
+        margin-left: 100px;
+        margin-top: 240px;
+    }
+}
+@media screen and (max-width: 650px){
+
+    .container-fluid{
+        margin-left: -90px;
+    }
+
+    .dropdown{
+        margin-left: 150px;
+        margin-top: -120px;
+    
+    }
+
+    #carouselExampleIndicators{
+        margin-top: 60px;
+    }
+
+    .col{
+        margin-left: -40px;
+    }
+
+    .footer{
+        height: 350px;
+    }
+
+    .face{
+        margin-left: 100px;
+        margin-top: 150px;
+        
+    }
+
+    .insta{
+        margin-left: 100px;
+        margin-top: 240px;
+    }
+}
+
+@media screen and (max-width: 500px){
+
+    .container-fluid{
+        margin-left: -90px;
+    }
+
+    .dropdown{
+    
+        margin-top: 400px;
+        margin-left: -70px;
+        margin-top: 20px;
+    
+    }
+
+    #carouselExampleIndicators{
+        margin-top: 80px;
+    }
+
+    .col{
+        margin-left: -100px;
+    }
+
+    .filmes_sp{
+        margin-left: -60px;
+        width: 350px;
+        height: 40px;
+    }
+
+    #filmes_rj{
+        margin-left: -60px;
+        width: 350px;
+        height: 40px;
+    }
+
+    #embreve{
+        margin-left: -60px;
+        width: 350px;
+        height: 40px;
+    }
+
+    .footer{
+        height: 350px;
+    }
+
+    .face{
+        margin-left: 100px;
+        margin-top: 150px;
+        
+    }
+
+    .insta{
+        margin-left: 100px;
+        margin-top: 240px;
+    }
+}
+
+@media screen and (max-width: 415px){
+
+    .container-fluid{
+        margin-left: -90px;
+    }
+
+    .dropdown{
+    
+        margin-top: 400px;
+        margin-left: -70px;
+        margin-top: 20px;
+    
+    }
+
+    #carouselExampleIndicators{
+        margin-top: 80px;
+    }
+
+    .col{
+        margin-left: -100px;
+    }
+
+    .filmes_sp{
+        margin-left: -80px;
+        width: 250px;
+        height: 30px;
+        font-size: 15px;
+    }
+
+    #filmes_rj{
+        margin-left: -80px;
+        width: 270px;
+        height: 30px;
+        font-size: 15px;
+    }
+
+    #embreve{
+        margin-left: -80px;
+        width: 250px;
+        height: 30px;
+        font-size: 15px;
+    }
+
+    .footer{
+        height: 350px;
+    }
+
+    .face{
+        margin-left: 100px;
+        margin-top: 150px;
+        
+    }
+
+    .insta{
+        margin-left: 100px;
+        margin-top: 240px;
+    }
+
+    #nav1{
+        width: 100px;
+    }
+}
